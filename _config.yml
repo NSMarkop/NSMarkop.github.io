@@ -11,3 +11,7 @@ show_excerpts: false
 remote_theme: minima
 minima:
   date_format: "%Y-%m-%d"
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
