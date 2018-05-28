@@ -1,7 +1,7 @@
 title: Nick's Transcriptions
 author: Nick Markopoulos
 email: hello@nicholas.pizza
-description: All of my transcription related work is here
+description: Transcriptions and related work.
 
 github_username: nsmarkop
 twitter_username: nsmarkop
@@ -10,4 +10,4 @@ show_excerpts: false
 
 remote_theme: minima
 minima:
-  date_format: "%Y %m %d"
+  date_format: "%Y-%m-%d"
