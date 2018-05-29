@@ -6,11 +6,11 @@ categories:
  - subtitle
 files:
  - name: .txt
-   path: assets/transcriptions/2018-05-28-shipping-characters.txt
+   url: /assets/transcriptions/2018-05-28-shipping-characters.txt
  - name: .srt
-   path: assets/transcriptions/2018-05-28-shipping-characters.srt
+   url: /assets/transcriptions/2018-05-28-shipping-characters.srt
  - name: .ass
-   path: assets/transcriptions/2018-05-28-shipping-characters.ass
+   url: /assets/transcriptions/2018-05-28-shipping-characters.ass
 ---
 
 [https://www.youtube.com/watch?v=ulteZYyWAA8](Source)
