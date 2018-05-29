@@ -1,5 +1,4 @@
 ---
-layout: post
 title: ProZD - Shipping Characters
 categories:
  - transcription

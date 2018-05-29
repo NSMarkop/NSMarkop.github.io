@@ -8,6 +8,14 @@ twitter_username: nsmarkop
 
 show_excerpts: false
 
+defaults:
+  - scope:
+      path: "" # An empty string here means all files in the project
+      type: posts
+    values:
+      layout: post
+      author: Nick Markopoulos
+
 remote_theme: minima
 minima:
   date_format: "%Y-%m-%d"
