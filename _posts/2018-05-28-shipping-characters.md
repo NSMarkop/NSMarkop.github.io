@@ -1,14 +1,16 @@
 ---
 layout: post
-title: "ProZD - Shipping Characters"
-categories: transcription subtitle
+title: ProZD - Shipping Characters
+categories:
+ - transcription
+ - subtitle
 files:
- - name: ".txt"
-   path: "assets/transcriptions/2018-05-28-shipping-characters.txt"
- - name: ".srt"
-   path: "assets/transcriptions/2018-05-28-shipping-characters.srt"
- - name: ".ass"
-   path: "assets/transcriptions/2018-05-28-shipping-characters.ass"
+ - name: .txt
+   path: assets/transcriptions/2018-05-28-shipping-characters.txt
+ - name: .srt
+   path: assets/transcriptions/2018-05-28-shipping-characters.srt
+ - name: .ass
+   path: assets/transcriptions/2018-05-28-shipping-characters.ass
 ---
 
 [https://www.youtube.com/watch?v=ulteZYyWAA8](Source)
