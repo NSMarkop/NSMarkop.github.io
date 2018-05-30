@@ -1,6 +1,6 @@
 ---
 title: ProZD - Shipping Characters
-categories:
+tags:
  - transcription
  - subtitle
 files:
