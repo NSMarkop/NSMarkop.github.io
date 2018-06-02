@@ -12,7 +12,7 @@ files:
    url: /assets/transcriptions/2018-05-28-shipping-characters.ass
 ---
 
-[Source](https://www.youtube.com/watch?v=ulteZYyWAA8)
+Source: [https://www.youtube.com/watch?v=ulteZYyWAA8](https://www.youtube.com/watch?v=ulteZYyWAA8)
 
 ```
 Lamp-san: Hello, TV-san.
